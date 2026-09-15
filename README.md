@@ -15,5 +15,5 @@
 ### Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,idea,docker,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,idea,docker,linux,angular,react" alt="Tech Stack" />
 </p>
