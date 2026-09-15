@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bem-vindo ao meu GitHub!
 
-<!--
-**vitormonteirov/vitormonteirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+☕ **Linguagens:** Java  
+🧩 **Frameworks & Ferramentas:** Spring Boot, Hibernate / JPA, Maven, Git & GitHub.  
+🛠️ **Ambiente & Práticas:** IntelliJ IDEA, JUnit, Bancos Relacionais (PostgreSQL / MySQL) e APIs RESTful.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💌 **Entre em contato comigo por uma das minhas redes sociais:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitormonteirov/)
+
+---
+
+### Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,idea,docker,linux" alt="Tech Stack" />
+</p>
